@@ -16,7 +16,7 @@ function Header(date, title, temPera) {
     const tiTle = document.createElement('h1')
     const temPerature = document.createElement('span')
 
-    heaDer.classList.add('header-container')
+    heaDer.classList.add('header')
     DaTe.classList.add('date')
     temPerature.classList.add('temp')
 
